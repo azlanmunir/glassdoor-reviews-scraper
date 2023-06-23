@@ -68,7 +68,7 @@ def review_scraper(url):
     return Reviews
 
 #paste the url to the first page of the company's Glassdoor reviews
-input_url="https://www.glassdoor.com/Reviews/Gates-Corporation-Reviews-E2794.htm"
+input_url=" "
 
 #scraping the first page content
 hdr = {'User-Agent': 'Mozilla/5.0'}
